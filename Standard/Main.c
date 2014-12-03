@@ -5,7 +5,6 @@
 //prototipi funzioni
 
 
-
 //inizio programma principale
 //main
 main(){
