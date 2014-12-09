@@ -6,7 +6,6 @@
 
 
 //inizio programma principale
-//main
 main(){
     //dichiarazione variabili
 
